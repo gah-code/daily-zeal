@@ -59,3 +59,17 @@ The Bible study formula is the repeatable unit inside that larger discipline.
 The system is meant to form five capacities together:
 
 ### 1.2 Why handwriting and Obsidian have different jobs
+
+The project assigns handwriting to attentive personal formulation and digital tools to organization, comparison, revision, preservation, and reuse.
+
+**Handwriting asks:** Can I explain this without copying someone else's explanation?
+
+**Obsidian asks:** Can I locate, connect, verify, and develop that explanation later?
+
+**Revision asks:** Is my sentence actually true, and does it say exactly what I intend?
+
+**Publication asks:** Can another person understand the argument without access to my private study process?
+
+Do not let any one tool absorb the other roles. A beautifully organized vault does not replace personal reflection; a moving handwritten paragraph does not replace checking its claims.
+
+### 1.3 What successful use produces
